@@ -3,8 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<!-- BANNER GIF — Replace with your own banner or use this lofi coding aesthetic -->
-<img src="https://i.imgur.com/4ASaJeS.gif" />
+<!-- BANNER -->
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/assets/lofi_code.jpg" />
 
 <!-- Typing SVG -->
 <p align="center">
