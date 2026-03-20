@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C1629,25:0F6E56,50:1D9E75,75:185FA5,100:534AB7&height=220&section=header&text=&fontSize=0" width="100%"/>
 
 <!-- ANIMATED TITLE -->
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/VrushabhSasane39">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=3000&pause=500&color=1D9E75&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%9A%A1+AI+%C2%B7+Knowledge+%C2%B7+Automation" alt="Title"/>
 </a>
 
@@ -30,24 +30,24 @@
 <br/><br/>
 
 <!-- SOCIAL / CONNECT BADGES — Customize links -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/www.linkedin.com/in/vrushabh-sasane-a01586210">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@domain.com">
+<a href="mailto:vrushabhsasane599@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/VrushabhSasane39">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0C1629&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=VrushabhSasane39&style=for-the-badge&color=0C1629&label=PROFILE+VIEWS" alt="Profile views"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=0F6E56&label=FOLLOWERS&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/VrushabhSasane39?style=for-the-badge&color=0F6E56&label=FOLLOWERS&logo=github" alt="Followers"/>
 
 </div>
 
@@ -160,7 +160,7 @@ const engineer = {
 
 <!-- PROJECT 1 -->
 <a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=185FA5&text_color=c9d1d9" alt="FixCoach+"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VrushabhSasane39&repo=YOUR_REPO&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=185FA5&text_color=c9d1d9" alt="FixCoach+"/>
 </a>
 </div>
 
@@ -435,25 +435,25 @@ const engineer = {
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=185FA5&text_color=c9d1d9&ring_color=1D9E75" alt="GitHub Stats"/>
+<a href="https://github.com/VrushabhSasane39">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=VrushabhSasane39&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=185FA5&text_color=c9d1d9&ring_color=1D9E75" alt="GitHub Stats"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/YOUR_USERNAME">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=c9d1d9" alt="Top Langs"/>
+<a href="https://github.com/VrushabhSasane39">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrushabhSasane39&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=c9d1d9" alt="Top Langs"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1D9E75&fire=BA7517&currStreakLabel=1D9E75&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak"/>
+<a href="https://github.com/VrushabhSasane39">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VrushabhSasane39&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1D9E75&fire=BA7517&currStreakLabel=1D9E75&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
 
 <!-- ACTIVITY GRAPH -->
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=1D9E75&line=185FA5&point=BA7517&area=true&area_color=1D9E75&hide_border=true" alt="Activity Graph"/>
+<a href="https://github.com/VrushabhSasane39">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VrushabhSasane39&bg_color=0d1117&color=1D9E75&line=185FA5&point=BA7517&area=true&area_color=1D9E75&hide_border=true" alt="Activity Graph"/>
 </a>
 
 </div>
@@ -504,9 +504,9 @@ const engineer = {
 <!-- Uncomment after setting up: https://github.com/Platane/snk -->
 <!--
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VrushabhSasane39/VrushabhSasane39/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VrushabhSasane39/VrushabhSasane39/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/VrushabhSasane39/VrushabhSasane39/output/github-snake-dark.svg"/>
 </picture>
 -->
 
