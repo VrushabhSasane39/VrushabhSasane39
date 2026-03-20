@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0C1629&title_color=378ADD&text_color=85B7EB" width="38%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrushabhSasane39&layout=compact&theme=tokyonight&hide_border=true&bg_color=0C1629&title_color=378ADD&text_color=85B7EB" width="38%"/>
 
 ### `> whoami`
 
