@@ -1,528 +1,273 @@
-<div align="center">
+<h2 align="left">
+  Hey there, Welcome!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C1629,25:0F6E56,50:1D9E75,75:185FA5,100:534AB7&height=220&section=header&text=&fontSize=0" width="100%"/>
+<!-- BANNER GIF — Replace with your own banner or use this lofi coding aesthetic -->
+<img src="https://i.imgur.com/4ASaJeS.gif" />
 
-<!-- ANIMATED TITLE -->
-<a href="https://github.com/VrushabhSasane39">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=3000&pause=500&color=1D9E75&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%9A%A1+AI+%C2%B7+Knowledge+%C2%B7+Automation" alt="Title"/>
-</a>
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=AI+Adoption+%26+Knowledge+Management+Engineer;Agentic+AI+%7C+RAG+%7C+Embeddings;Building+AI-Powered+Support+Ecosystems+%E2%9A%A1;AI+is+a+force+multiplier+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-<br/>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=FFFFFF80&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Support+Ecosystems;Agentic+AI+%7C+RAG+%7C+Knowledge+Management;Turning+Support+into+Smart+Support+%E2%9A%A1;AI+is+a+force+multiplier+%F0%9F%9A%80" alt="Typing SVG"/>
+</br></br></br></br>
 
-<br/><br/>
+<!-- BIO SECTION — Octocat floating right, text wraps left (same layout as reference) -->
+<img src="https://octodex.github.com/images/femalecodertocat.png" width="300" align="right">
 
-<!-- ROLE BADGES -->
-<picture>
-  <img src="https://img.shields.io/badge/AI_Adoption_&_Knowledge_Management_Engineer-0C1629?style=for-the-badge&logoColor=white" alt="Role"/>
-</picture>
+📍 I'm an **AI Adoption & Knowledge Management Engineer** from India, working across **Support & Services** and **R&D**.
+I build intelligent systems that turn support workflows into AI-powered ecosystems.
+Some of the toys I play with are **LangChain**, **RAG pipelines**, and **Agentic AI** frameworks.
 
-<br/><br/>
+- 🔭 I'm working on **Avishkar 2025** — building next-gen AI support tools
+- 🧠 I'm deep-diving into **Agentic AI** and **Knowledge Graphs**
+- 🤖 I build bots that do the boring stuff so engineers can do the smart stuff
+- 🏆 **Spot Award Winner** for AI in Support Workflows
+- 👔 Collaborating directly with **Director & VP-level leadership**
+- ⚡ Fun fact: My code doesn't just run — it *thinks* 🧠✨
 
-<img src="https://img.shields.io/badge/Support_&_Services-0F6E56?style=flat-square&logoColor=white" alt="Support"/>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/R&D-185FA5?style=flat-square&logoColor=white" alt="R&D"/>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Agentic_AI_Systems-534AB7?style=flat-square&logoColor=white" alt="Agentic AI"/>
+</br>
 
-<br/><br/>
-
-<!-- SOCIAL / CONNECT BADGES — Customize links -->
-<a href="https://linkedin.com/in/www.linkedin.com/in/vrushabh-sasane-a01586210">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:vrushabhsasane599@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://github.com/VrushabhSasane39">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=VrushabhSasane39&style=for-the-badge&color=0C1629&label=PROFILE+VIEWS" alt="Profile views"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/VrushabhSasane39?style=for-the-badge&color=0F6E56&label=FOLLOWERS&logo=github" alt="Followers"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════ -->
-<!-- ABOUT ME -->
-<!-- ═══════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0C1629&height=1&section=header" width="100%"/>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; About Me
-
-```js
-const engineer = {
-    role     : "AI Adoption & Knowledge Management Engineer",
-    team     : ["Support & Services", "R&D"],
-    focus    : ["Agentic AI", "Knowledge Management", "AI-Powered Automation"],
-    collab   : "Director & VP level leadership",
-    status   : "🔄 Avishkar 2025 (Ongoing)",
-    motto    : "AI is a force multiplier for support engineering"
-};
-```
-
-<br/>
-
-> 💡 *I build AI-powered support ecosystems where issues are **auto-understood**, engineers are **augmented with AI copilots**, and knowledge **evolves dynamically**.*
-
-<br/>
-
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
 <!-- ACHIEVEMENTS -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0F6E56&height=1&section=header" width="100%"/>
-
-## 🏆 &nbsp; Achievements & Recognition
-
-<div align="center">
+<h2 align="left">🏆 Achievements</h2>
 
 <table>
 <tr>
-<td align="center" width="20%">
-<br/>
-<img src="https://img.shields.io/badge/🥈-silver?style=for-the-badge&labelColor=C0C0C0&color=E8E8E8" alt="Silver"/>
-<br/><br/>
-<strong>2nd Prize Finalist</strong>
-<br/>
-<sub>AI AGON</sub>
-<br/><br/>
-</td>
-<td align="center" width="20%">
-<br/>
-<img src="https://img.shields.io/badge/🏁-finalist?style=for-the-badge&labelColor=185FA5&color=1D9E75" alt="Finalist"/>
-<br/><br/>
-<strong>Finalist</strong>
-<br/>
-<sub>Avishkar 2024 — Renowned Ideas</sub>
-<br/><br/>
-</td>
-<td align="center" width="20%">
-<br/>
-<img src="https://img.shields.io/badge/⚡-spark?style=for-the-badge&labelColor=BA7517&color=D4A843" alt="Spark"/>
-<br/><br/>
-<strong>Finalist</strong>
-<br/>
-<sub>Sparkathon 2024</sub>
-<br/><br/>
-</td>
-<td align="center" width="20%">
-<br/>
-<img src="https://img.shields.io/badge/🔄-ongoing?style=for-the-badge&labelColor=534AB7&color=7B68EE" alt="Ongoing"/>
-<br/><br/>
-<strong>Ongoing Finalist</strong>
-<br/>
-<sub>Avishkar 2025</sub>
-<br/><br/>
-</td>
-<td align="center" width="20%">
-<br/>
-<img src="https://img.shields.io/badge/🏅-award?style=for-the-badge&labelColor=0C1629&color=1D9E75" alt="Spot"/>
-<br/><br/>
-<strong>Spot Award</strong>
-<br/>
-<sub>AI in Support · Bots & Agentic AI</sub>
-<br/><br/>
-</td>
+<td align="center" width="20%">🥈<br/><b>2nd Prize Finalist</b><br/><sub>AI AGON</sub></td>
+<td align="center" width="20%">🏁<br/><b>Finalist</b><br/><sub>Avishkar 2024 — Renowned Ideas</sub></td>
+<td align="center" width="20%">⚡<br/><b>Finalist</b><br/><sub>Sparkathon 2024</sub></td>
+<td align="center" width="20%">🔄<br/><b>Ongoing Finalist</b><br/><sub>Avishkar 2025</sub></td>
+<td align="center" width="20%">🏅<br/><b>Spot Award</b><br/><sub>AI in Support · Bots & Agentic AI</sub></td>
 </tr>
 </table>
 
-<br/>
+> Worked directly with **Director & VP-level leadership** — presented AI ideas and contributed to strategic initiatives.
 
-<img src="https://img.shields.io/badge/🤝_Collaborated_with_Director_&_VP--level_Leadership-0C1629?style=for-the-badge" alt="Leadership"/>
+</br>
 
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
 <!-- FEATURED PROJECTS -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=185FA5&height=1&section=header" width="100%"/>
-
-## 🚀 &nbsp; Featured Projects
-
-<br/>
-
-<div align="center">
-
-<!-- PROJECT 1 -->
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VrushabhSasane39&repo=YOUR_REPO&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=185FA5&text_color=c9d1d9" alt="FixCoach+"/>
-</a>
-</div>
-
-<br/>
+<h2 align="left">🚀 Featured Projects</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 FixCoach+ &nbsp; <sup><sub>`AI Troubleshooting Assistant`</sub></sup>
-
-<br/>
-
-<div>
-
-&nbsp;&nbsp; ◈ &nbsp; Intelligent troubleshooting suggestions  
-&nbsp;&nbsp; ◈ &nbsp; Knowledge base auto-generation  
-&nbsp;&nbsp; ◈ &nbsp; SQL query assistance  
-&nbsp;&nbsp; ◈ &nbsp; Context-aware responses
-
-</div>
-
-<br/>
-
-![LangChain](https://img.shields.io/badge/LangChain-1D9E75?style=flat-square&logo=chainlink&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-2C2C2A?style=flat-square&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-185FA5?style=flat-square)
-![Phi3](https://img.shields.io/badge/Local_LLM_Phi3-0C1629?style=flat-square)
+<h3>🧩 FixCoach+</h3>
+<sup><code>AI Troubleshooting Assistant</code></sup>
+<br/><br/>
+◈ Intelligent troubleshooting suggestions<br/>
+◈ Knowledge base auto-generation<br/>
+◈ SQL query assistance<br/>
+◈ Context-aware responses
+<br/><br/>
+<img src="https://img.shields.io/badge/LangChain-1D9E75?style=flat-square&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-2C2C2A?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embeddings-185FA5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Phi3-0C1629?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Case Assignment Bot &nbsp; <sup><sub>`Workload Distribution`</sub></sup>
-
-<br/>
-
-<div>
-
-&nbsp;&nbsp; ◈ &nbsp; Round-robin assignment engine  
-&nbsp;&nbsp; ◈ &nbsp; Smart reassignment & handover  
-&nbsp;&nbsp; ◈ &nbsp; Overload detection alerts  
-&nbsp;&nbsp; ◈ &nbsp; Excel & PDF auto-reporting
-
-</div>
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-0F6E56?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+<h3>📊 Case Assignment Bot</h3>
+<sup><code>Workload Distribution</code></sup>
+<br/><br/>
+◈ Round-robin assignment engine<br/>
+◈ Smart reassignment & handover<br/>
+◈ Overload detection alerts<br/>
+◈ Excel & PDF auto-reporting
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tkinter-0F6E56?style=flat-square"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📅 Roster Generator &nbsp; <sup><sub>`AI Shift Scheduling`</sub></sup>
-
-<br/>
-
-<div>
-
-&nbsp;&nbsp; ◈ &nbsp; Balanced shift allocation  
-&nbsp;&nbsp; ◈ &nbsp; Constraint-aware scheduling  
-&nbsp;&nbsp; ◈ &nbsp; Historical pattern analysis  
-&nbsp;&nbsp; ◈ &nbsp; Excel export
-
-</div>
-
-<br/>
-
-![AI](https://img.shields.io/badge/AI_Scheduling-BA7517?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<h3>📅 Roster Generator</h3>
+<sup><code>AI Shift Scheduling</code></sup>
+<br/><br/>
+◈ Balanced shift allocation<br/>
+◈ Constraint-aware scheduling<br/>
+◈ Historical pattern analysis<br/>
+◈ Excel export
+<br/><br/>
+<img src="https://img.shields.io/badge/AI_Scheduling-BA7517?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 AI Knowledge Flow &nbsp; <sup><sub>`Engage Product`</sub></sup>
-
-<br/>
-
-<div>
-
-&nbsp;&nbsp; ◈ &nbsp; Static docs → AI decision flows  
-&nbsp;&nbsp; ◈ &nbsp; Intelligent knowledge routing  
-&nbsp;&nbsp; ◈ &nbsp; Fast issue-to-resolution pipeline  
-&nbsp;&nbsp; ◈ &nbsp; Dynamic knowledge evolution
-
-</div>
-
-<br/>
-
-![RAG](https://img.shields.io/badge/RAG-534AB7?style=flat-square)
-![KnowledgeGraph](https://img.shields.io/badge/Knowledge_Graph-0F6E56?style=flat-square)
+<h3>🧠 AI Knowledge Flow</h3>
+<sup><code>Engage Product</code></sup>
+<br/><br/>
+◈ Static docs → AI decision flows<br/>
+◈ Intelligent knowledge routing<br/>
+◈ Fast issue-to-resolution pipeline<br/>
+◈ Dynamic knowledge evolution
+<br/><br/>
+<img src="https://img.shields.io/badge/RAG-534AB7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Knowledge_Graph-0F6E56?style=flat-square"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
+</br>
 
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
 <!-- AI RESOLUTION PIPELINE -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=534AB7&height=1&section=header" width="100%"/>
-
-## ⚙️ &nbsp; AI Resolution Pipeline
-
-<div align="center">
-
-<br/>
+<h2 align="left">⚙️ AI Resolution Pipeline</h2>
 
 ```
-         ┌──────────┐    ┌──────────────┐    ┌────────────────────┐    ┌──────────────┐
-         │  🔍      │    │  🧠         │    │  📚               │    │  ✅         │
-         │  ISSUE   │───▶│  DETECTION  │───▶│  KNOWLEDGE ROUTING │───▶│  RESOLUTION │
-         │  Input   │    │  AI Triage  │    │  RAG + Embeddings  │    │  Auto-Solve │
-         └──────────┘    └──────────────┘    └────────────────────┘    └──────────────┘
+   🔍 Issue  ──►  🧠 Detection  ──►  📚 Knowledge Routing  ──►  ✅ Resolution
+    Input          AI Triage          RAG + Embeddings           Auto-Solve
 ```
 
-<br/>
+</br>
 
-</div>
+<!-- ═══════════════════════════════════ -->
+<!-- LANGUAGES & TOOLS — skillicons.dev grid (same as reference) -->
+<!-- ═══════════════════════════════════ -->
 
-<br/>
+<h2 align="left">Languages and Tools:</h2>
 
-<!-- ═══════════════════════════════════════════ -->
-<!-- TECH STACK -->
-<!-- ═══════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=BA7517&height=1&section=header" width="100%"/>
-
-## 🛠️ &nbsp; Tech Stack
-
-<br/>
-
-<div align="center">
-
-<!-- AI & PLATFORMS -->
-<details open>
-<summary><strong>&nbsp;🤖 &nbsp; AI & Platforms</strong></summary>
-<br/>
-
-![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Copilot](https://img.shields.io/badge/MS_Copilot-185FA5?style=for-the-badge&logo=microsoft&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-2C2C2A?style=for-the-badge&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1D9E75?style=for-the-badge&logo=chainlink&logoColor=white)
-
-<br/>
-</details>
-
-<!-- DEVELOPMENT -->
-<details open>
-<summary><strong>&nbsp;💻 &nbsp; Development</strong></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-0F6E56?style=for-the-badge)
-
-<br/>
-</details>
-
-<!-- AI CONCEPTS -->
-<details open>
-<summary><strong>&nbsp;🧠 &nbsp; AI Concepts</strong></summary>
-<br/>
-
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0C1629?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-534AB7?style=for-the-badge)
-![Semantic Search](https://img.shields.io/badge/Semantic_Search-185FA5?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-0F6E56?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-BA7517?style=for-the-badge)
-
-<br/>
-</details>
-
-<!-- DOMAIN -->
-<details open>
-<summary><strong>&nbsp;📡 &nbsp; Domain Expertise</strong></summary>
-<br/>
-
-![NICE CXone](https://img.shields.io/badge/NICE_CXone-1D9E75?style=for-the-badge)
-![Engage](https://img.shields.io/badge/Engage_Recording-0F6E56?style=for-the-badge)
-![PBX](https://img.shields.io/badge/PBX_&_Telephony-185FA5?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-2C2C2A?style=for-the-badge)
-
-<br/>
-</details>
-
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,tensorflow,vscode,mysql,postgres,mongodb,docker,git,github,linux,bash,postman,graphql,html,css,js,nodejs,elasticsearch&perline=12" />
+  </a>
+</p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════ -->
+**🤖 AI & Platforms**
+
+<p align="left">
+<img src="https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS_Copilot-185FA5?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-2C2C2A?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1D9E75?style=for-the-badge&logo=chainlink&logoColor=white"/>
+</p>
+
+**🧠 AI Concepts**
+
+<p align="left">
+<img src="https://img.shields.io/badge/Prompt_Engineering-0C1629?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-534AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semantic_Search-185FA5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-0F6E56?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-BA7517?style=for-the-badge"/>
+</p>
+
+**📡 Domain**
+
+<p align="left">
+<img src="https://img.shields.io/badge/NICE_CXone-1D9E75?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Engage_Recording-0F6E56?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PBX_&_Telephony-185FA5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Networking-2C2C2A?style=for-the-badge"/>
+</p>
+
+</br>
+
+<!-- ═══════════════════════════════════ -->
 <!-- IMPACT -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1D9E75&height=1&section=header" width="100%"/>
+<h2 align="left">📈 Impact</h2>
 
-## 📈 &nbsp; Impact & Results
+| &nbsp; | Area | Result |
+|:---:|:---|:---|
+| ⏱️ | Troubleshooting time | **Reduced** via AI-driven systems |
+| 🤖 | AI adoption | **Increased** across support teams |
+| 📚 | Knowledge accessibility | **Improved** — searchable, reusable, scalable |
+| ⚙️ | Repetitive workflows | **Automated** via bots & agentic pipelines |
+| 🧠 | Agentic AI thinking | **Introduced** into production support ops |
 
-<br/>
+</br>
 
-<div align="center">
+<!-- ═══════════════════════════════════ -->
+<!-- SOCIAL — right-aligned (same as reference) -->
+<!-- ═══════════════════════════════════ -->
+
+<i><h3 align="right">Connect with me</h3></i>
+
+<p align="right">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/YOUR_SO_ID">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@domain.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<!-- Uncomment if you want Buy Me a Coffee -->
+<!-- <div align="right">
+<a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div> -->
+
+<br><br><br><br>
+
+<!-- ═══════════════════════════════════ -->
+<!-- GITHUB STATS — 2-column table (same as reference) -->
+<!-- ═══════════════════════════════════ -->
 
 <table>
-<tr>
-<td align="center" width="20%">
-<br/>
-<img width="60" src="https://img.icons8.com/fluency/96/time.png" alt="time"/>
-<br/><br/>
-<strong>Troubleshooting<br/>Time</strong>
-<br/>
-<sub>⬇️ Reduced via AI-driven systems</sub>
-<br/><br/>
-</td>
-<td align="center" width="20%">
-<br/>
-<img width="60" src="https://img.icons8.com/fluency/96/robot-2.png" alt="ai"/>
-<br/><br/>
-<strong>AI<br/>Adoption</strong>
-<br/>
-<sub>⬆️ Increased across support teams</sub>
-<br/><br/>
-</td>
-<td align="center" width="20%">
-<br/>
-<img width="60" src="https://img.icons8.com/fluency/96/book.png" alt="knowledge"/>
-<br/><br/>
-<strong>Knowledge<br/>Accessibility</strong>
-<br/>
-<sub>📚 Searchable · Reusable · Scalable</sub>
-<br/><br/>
-</td>
-<td align="center" width="20%">
-<br/>
-<img width="60" src="https://img.icons8.com/fluency/96/automation.png" alt="automation"/>
-<br/><br/>
-<strong>Workflow<br/>Automation</strong>
-<br/>
-<sub>🤖 Bots & agentic pipelines</sub>
-<br/><br/>
-</td>
-<td align="center" width="20%">
-<br/>
-<img width="60" src="https://img.icons8.com/fluency/96/brain.png" alt="brain"/>
-<br/><br/>
-<strong>Agentic AI<br/>Thinking</strong>
-<br/>
-<sub>🧠 Introduced into production ops</sub>
-<br/><br/>
-</td>
-</tr>
+  <tr>
+   <td>
+     <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=synthwave&hide_border=true" />
+   </td>
+   <td>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=merko&hide_border=true&show_icons=true" />
+   </td>
+ </tr>
 </table>
 
-</div>
+<br><br>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════ -->
-<!-- GITHUB STATS -->
-<!-- ═══════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0C1629&height=1&section=header" width="100%"/>
-
-## 📊 &nbsp; GitHub Analytics
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/VrushabhSasane39">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=VrushabhSasane39&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=185FA5&text_color=c9d1d9&ring_color=1D9E75" alt="GitHub Stats"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/VrushabhSasane39">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrushabhSasane39&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=c9d1d9" alt="Top Langs"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/VrushabhSasane39">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VrushabhSasane39&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1D9E75&fire=BA7517&currStreakLabel=1D9E75&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak"/>
-</a>
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<a href="https://github.com/VrushabhSasane39">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VrushabhSasane39&bg_color=0d1117&color=1D9E75&line=185FA5&point=BA7517&area=true&area_color=1D9E75&hide_border=true" alt="Activity Graph"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
 <!-- VISION -->
-<!-- ═══════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=1&section=header" width="100%"/>
-
-<br/>
+<!-- ═══════════════════════════════════ -->
 
 <div align="center">
 
-## 🔭 &nbsp; Vision
+### 🔭 Vision
+
+> *To build AI-powered support ecosystems where issues are **auto-understood**, engineers are **augmented with AI copilots**, and knowledge **evolves dynamically**.*
 
 <br/>
 
-```
-  ╔═══════════════════════════════════════════════════════════════════════════╗
-  ║                                                                         ║
-  ║   🎯  Build AI-powered support ecosystems where:                        ║
-  ║                                                                         ║
-  ║        → Issues are AUTO-UNDERSTOOD                                     ║
-  ║        → Engineers are AUGMENTED with AI copilots                        ║
-  ║        → Knowledge EVOLVES DYNAMICALLY                                  ║
-  ║                                                                         ║
-  ╚═══════════════════════════════════════════════════════════════════════════╝
-```
+**⚡ "Turning Support into Smart Support with AI + Knowledge + Automation."**
 
 <br/>
 
-<!-- QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Turning%20Support%20into%20Smart%20Support%20with%20AI%20%2B%20Knowledge%20%2B%20Automation.&author=My%20Mission" alt="Quote"/>
-
-<br/><br/>
-
-<!-- STATUS -->
-<img src="https://img.shields.io/badge/🔄_Currently_Working_On-Avishkar_2025-1D9E75?style=for-the-badge" alt="Status"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🤝_Collaborating_With-Director_&_VP_Leadership-185FA5?style=for-the-badge" alt="Collab"/>
-
-<br/><br/>
-
-<!-- SNAKE ANIMATION — requires GitHub Actions setup -->
-<!-- Uncomment after setting up: https://github.com/Platane/snk -->
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VrushabhSasane39/VrushabhSasane39/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VrushabhSasane39/VrushabhSasane39/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/VrushabhSasane39/VrushabhSasane39/output/github-snake-dark.svg"/>
-</picture>
--->
-
----
-
-<br/>
-
-<img src="https://img.shields.io/badge/⚡-AI_is_a_force_multiplier-0C1629?style=for-the-badge&labelColor=1D9E75" alt="Motto"/>
-
-<br/><br/>
-
-<sub>⭐ If you find my work interesting, consider giving a star! ⭐</sub>
-
-<br/><br/>
+*Currently working on Avishkar 2025 &nbsp;·&nbsp; Collaborating with Director & VP leadership*
 
 </div>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,25:185FA5,50:1D9E75,75:0F6E56,100:0C1629&height=120&section=footer" width="100%"/>
+<!-- Snake Animation — set up via GitHub Actions: https://github.com/Platane/snk -->
+<!-- Uncomment after setup:
+<h2 align="center">Save my commits from 🐍nakey 🥺</h2>
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+-->
